@@ -6,20 +6,24 @@ body {
 .logo {
     float: left;
     margin-top: 5px;
-    height: 25px;
+    width: 120px;
+    margin-left: 5px;
 }
 
 h1 {
-    color: black;
-    line-height: 147px;
+    color: white;
     font-size: 64px;
-    vertical-align: center;
+    margin: 0;
+    padding: 0;
+    margin-right: 100px;
 }
 
 header {
     background-color: #435346;
     height: 147px;
+    line-height: 147px;
     text-align: center;
+    vertical-align: center;
 }
 
 nav {
@@ -31,19 +35,22 @@ nav {
 }
 
 p {
-    font-size: 24px;
+    font-size: 26px;
     margin-left: 50px;
 }  
 
 aside {
-    margin-top: 15px;
-    text-align: right;
+    float: right;
+    height: 750px;
+    margin: 30px;
 }
 
 h2 {
     font-style: bold;
     font-size: 32px;
     margin: 15px;
+    margin-left: 30px;
+    margin-top: 25px;
 }
 
 footer {
