@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+}
+
+.logo {
+    width: 120px;
+    display: inline;
+    float: left;
+    padding: 5px;
+}
+
+h1 {
+    display: inline;
+    text-align: center;
+    color: white;
+    line-height: 147px;
+    font-size: 64px;
+}
+
+header {
+    background-color: #435346;
+    text-align: center;
+    height: 147px;
+}
+
+nav {
+    background-color: #4B6550;
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+    margin-left: 50px;
+    display: inline-block;
+}  
+
+aside {
+    margin-top: 15px;
+    text-align: right;
+}
+
+h2 {
+    font-style: bold;
+    font-size: 32px;
+    margin: 15px;
+}
+
+footer {
+    background-color: #4B6550;
+    color: white;
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+}
+
+a {
+    font-size: 32px;
+    text-decoration: none;
+    color: white;
+    margin-right: 15px;
+    margin-left: 15px;
+    text-align: auto;
+}
+
+h3 {
+    font-size: 23px;
+    font-style: bold;
+    margin: 15px;
+}
