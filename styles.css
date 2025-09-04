@@ -6,24 +6,28 @@ body {
 .logo {
     float: left;
     margin-top: 5px;
+    height: 25px;
 }
 
 h1 {
-    color: white;
+    color: black;
     line-height: 147px;
     font-size: 64px;
-    text-align: center;
     vertical-align: center;
 }
 
 header {
     background-color: #435346;
     height: 147px;
+    text-align: center;
 }
 
 nav {
     background-color: #4B6550;
     text-align: center;
+    height: 50px;
+    vertical-align: center;
+    line-height: 50px;
 }
 
 p {
