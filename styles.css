@@ -1,25 +1,23 @@
 body {
     margin: 0;
+    padding: 0;
 }
 
 .logo {
-    width: 120px;
-    display: inline;
     float: left;
-    padding: 5px;
+    margin-top: 5px;
 }
 
 h1 {
-    display: inline;
-    text-align: center;
     color: white;
     line-height: 147px;
     font-size: 64px;
+    text-align: center;
+    vertical-align: center;
 }
 
 header {
     background-color: #435346;
-    text-align: center;
     height: 147px;
 }
 
@@ -31,7 +29,6 @@ nav {
 p {
     font-size: 24px;
     margin-left: 50px;
-    display: inline-block;
 }  
 
 aside {
