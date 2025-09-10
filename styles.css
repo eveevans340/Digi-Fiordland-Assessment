@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script');
+
 body {
     margin: 0;
     padding: 0;
@@ -16,6 +18,7 @@ h1 {
     margin: 0;
     padding: 0;
     margin-right: 100px;
+    font-family: 'Petit Formal Script';
 }
 
 header {
@@ -41,7 +44,6 @@ p {
 
 aside {
     float: right;
-    height: 750px;
     margin: 30px;
 }
 
@@ -60,6 +62,7 @@ footer {
     height: 50px;
     font-size: 20px;
     line-height: 50px;
+    font-family: 'Petit Formal Script';
 }
 
 a {
@@ -75,4 +78,8 @@ h3 {
     font-size: 23px;
     font-style: bold;
     margin: 15px;
+}
+
+div {
+    display: flex;
 }
